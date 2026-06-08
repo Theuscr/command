@@ -37,7 +37,7 @@ Não requer servidor, build ou instalação de dependências.
 
 ## 🌐 Deploy
 
-Projeto disponível em: [https://command-ecommerce.vercel.app](https://command-ecommerce.vercel.app)
+Projeto disponível em: https://command-steel.vercel.app
 
 ## 📋 Funcionalidades
 
